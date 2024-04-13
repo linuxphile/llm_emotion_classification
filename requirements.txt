@@ -1,0 +1,4 @@
+pandas
+langchain
+ollama
+langchain_community

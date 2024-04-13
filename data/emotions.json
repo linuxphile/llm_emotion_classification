@@ -1,0 +1,36 @@
+{
+    "positive": [
+        "Joyful",
+        "Grateful",
+        "Serene",
+        "Interested",
+        "Hopeful",
+        "Proud",
+        "Amusement",
+        "Inspired",
+        "Awed",
+        "Loved"
+    ],
+    "negative": [
+        "Angry",
+        "Sad",
+        "Afraid",
+        "Disgusted",
+        "Ashamed",
+        "Guilty",
+        "Envious",
+        "Jealous",
+        "Frustrated",
+        "Lonely"
+    ],
+    "complex": [
+        "Nostalgic",
+        "Empathetic",
+        "Sympathetic",
+        "Content",
+        "Satisfied",
+        "Confused",
+        "Anticipative",
+        "Relieved"
+    ]
+}
