@@ -14,9 +14,9 @@ I am using Mistral locally for cost savings, but OpenAI will work just as well a
 I have had difficulties getting Mistral to reliably to limit its response to single word only. 
 
 TODO: 
-    Apply `StructuredOutputParser` to further limit output for better storage later
+    Update to show example of using OpenAI API instead of just Ollama
 
 
 
 *Requirements*:
-    Note you must have [Ollama](https://ollama.com/download) installed on your machine with Mistral downloaded. 
+    Note you must have [Ollama](https://ollama.com/download) installed on your machine with Mistral, Gemma, Llama or whatever model you want to use downloaded. 
